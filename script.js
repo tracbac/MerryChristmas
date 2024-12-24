@@ -121,7 +121,8 @@ function createStars() {
       '🎁 Tán được crush',
       '🎁 Không lẻ loi một mình',
       '🎁 8386',
-      '🎁 tài khoản 9 chữ số',
+      '🎁 tài khoản 10 chữ số',
+      '🎁 10k chụp màn hình ib ',
     
     ];
   
